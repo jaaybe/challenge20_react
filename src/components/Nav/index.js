@@ -1,23 +1,28 @@
 import React, { useEffect } from 'react';
+
+import Nav from 'react-bootstrap/Nav';
+import Button from 'react-bootstrap/Button';
+
+
 function Navigation(props) {
   const { navItems = [], setCurrentNavItem, currentNavItem } = props;
   useEffect(() => {
     if (currentNavItem === 'home') {
-      document.title = 'Sandrine P.';
+      document.title = 'JB Blot';
     } else {
       document.title = currentNavItem.name;
     }
   }, [currentNavItem]);
   return (
-    <nav>
-      <ul className="flex-row">
+    <Nav>
         {navItems.map((navItem) => (
-          <li
+          <Nav.Item
             className={`mx-2 ${
               currentNavItem.name === navItem.name && 'navActive'
             }`}
             key={navItem.short}
           >
+            <Button variant="primary">
             <a
               href={`#${navItem.short}`}
               onClick={() => {
@@ -26,10 +31,15 @@ function Navigation(props) {
             >
               {navItem.name}
             </a>
-          </li>
+            </Button>
+
+          </Nav.Item>
         ))}
-      </ul>
-    </nav>
+    </Nav>
   );
 }
 export default Navigation;
+
+
+
+
