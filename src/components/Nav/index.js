@@ -22,7 +22,7 @@ function Navigation(props) {
             }`}
             key={navItem.short}
           >
-            <Button variant="primary">
+            <Button variant="--color2">
             <a
               href={`#${navItem.short}`}
               onClick={() => {

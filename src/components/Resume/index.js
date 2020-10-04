@@ -1,36 +1,48 @@
 import React from 'react';
 
 import Media from 'react-bootstrap/Media';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import Badge from 'react-bootstrap/Badge';
+import ListGroup from 'react-bootstrap/ListGroup';
+
+import JbResume from '../../assets/pdf/jbResume.pdf';
 
 
 function Resume() {
     return (
-        <Row>
-            <Col md={4}>
-                <Media>
-                    <img
-                        width={64}
-                        height={64}
-                        className="mr-3"
-                        src="holder.js/64x64"
-                        alt="Generic placeholder"
-                    />
+                <Media style={{display: 'block'}}>
                     <Media.Body>
-                        <h5>Media Heading</h5>
+                        <h5>Front-end Proficiencies</h5>
                         <p>
-                            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque
-                            ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at,
-                            tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla.
-                            Donec lacinia congue felis in faucibus.
+                        <ListGroup variant="flush">
+  <ListGroup.Item>REACT</ListGroup.Item>
+  <ListGroup.Item>Bootstrap</ListGroup.Item>
+  <ListGroup.Item>CSS</ListGroup.Item>
+  <ListGroup.Item>HTML</ListGroup.Item>
+</ListGroup>
     </p>
                     </Media.Body>
+                    <Media.Body>
+                        <h5>Back-end Proficiencies</h5>
+                        <p>
+                        <ListGroup variant="flush">
+  <ListGroup.Item>JavaScript</ListGroup.Item>
+  <ListGroup.Item>Node</ListGroup.Item>
+  <ListGroup.Item>Express</ListGroup.Item>
+  <ListGroup.Item>MySQL</ListGroup.Item>
+  <ListGroup.Item>NoSQL (MongoDb)</ListGroup.Item>
+</ListGroup>
+    </p>
+                    </Media.Body>
+                    <Media.Body>
+                    To download a PDF version of my full Resume, please click<Badge pill>
+                        <a 
+                        href={JbResume} 
+                        target='_blank'
+                        rel="noopener noreferrer"
+                        >HERE</a>
+                        </Badge>
+                    </Media.Body>
                 </Media>
-            </Col>
-
-
-        </Row>
 
     );
 }
