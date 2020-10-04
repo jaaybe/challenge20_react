@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c92bcfe7edd2db17f0a9ff5eee329199",
+    "revision": "10a210e5727735013a328ba040caab2a",
     "url": "/challenge20_react/index.html"
   },
   {
-    "revision": "24bd852010e896477034",
+    "revision": "1a1610b38108fdd4fe00",
     "url": "/challenge20_react/static/css/main.56dad6b5.chunk.css"
   },
   {
-    "revision": "33258118986563be078d",
-    "url": "/challenge20_react/static/js/2.615088d2.chunk.js"
+    "revision": "09262dfc21d842b6e982",
+    "url": "/challenge20_react/static/js/2.4f851a0d.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/challenge20_react/static/js/2.615088d2.chunk.js.LICENSE.txt"
+    "url": "/challenge20_react/static/js/2.4f851a0d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24bd852010e896477034",
-    "url": "/challenge20_react/static/js/main.df811f4e.chunk.js"
+    "revision": "1a1610b38108fdd4fe00",
+    "url": "/challenge20_react/static/js/main.f0521e43.chunk.js"
   },
   {
     "revision": "3f1b214fb809d37d231b",
