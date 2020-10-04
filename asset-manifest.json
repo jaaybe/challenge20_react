@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "//jaaybe.github.io/challenge20_react/static/css/main.56dad6b5.chunk.css",
-    "main.js": "//jaaybe.github.io/challenge20_react/static/js/main.29218867.chunk.js",
-    "main.js.map": "//jaaybe.github.io/challenge20_react/static/js/main.29218867.chunk.js.map",
-    "runtime-main.js": "//jaaybe.github.io/challenge20_react/static/js/runtime-main.dca005c8.js",
-    "runtime-main.js.map": "//jaaybe.github.io/challenge20_react/static/js/runtime-main.dca005c8.js.map",
-    "static/js/2.615088d2.chunk.js": "//jaaybe.github.io/challenge20_react/static/js/2.615088d2.chunk.js",
-    "static/js/2.615088d2.chunk.js.map": "//jaaybe.github.io/challenge20_react/static/js/2.615088d2.chunk.js.map",
-    "index.html": "//jaaybe.github.io/challenge20_react/index.html",
-    "precache-manifest.8c6d5279402b06239736d9acaa0169f1.js": "//jaaybe.github.io/challenge20_react/precache-manifest.8c6d5279402b06239736d9acaa0169f1.js",
-    "service-worker.js": "//jaaybe.github.io/challenge20_react/service-worker.js",
-    "static/css/main.56dad6b5.chunk.css.map": "//jaaybe.github.io/challenge20_react/static/css/main.56dad6b5.chunk.css.map",
-    "static/js/2.615088d2.chunk.js.LICENSE.txt": "//jaaybe.github.io/challenge20_react/static/js/2.615088d2.chunk.js.LICENSE.txt",
-    "static/media/background.png": "//jaaybe.github.io/challenge20_react/static/media/background.10c56cfe.png",
-    "static/media/jbResume.pdf": "//jaaybe.github.io/challenge20_react/static/media/jbResume.10b6299f.pdf",
-    "static/media/jm_korea.jpg": "//jaaybe.github.io/challenge20_react/static/media/jm_korea.625fd02e.jpg",
-    "static/media/portrait.png": "//jaaybe.github.io/challenge20_react/static/media/portrait.35966dff.png"
+    "main.css": "/challenge20_react/static/css/main.56dad6b5.chunk.css",
+    "main.js": "/challenge20_react/static/js/main.df811f4e.chunk.js",
+    "main.js.map": "/challenge20_react/static/js/main.df811f4e.chunk.js.map",
+    "runtime-main.js": "/challenge20_react/static/js/runtime-main.a133e703.js",
+    "runtime-main.js.map": "/challenge20_react/static/js/runtime-main.a133e703.js.map",
+    "static/js/2.615088d2.chunk.js": "/challenge20_react/static/js/2.615088d2.chunk.js",
+    "static/js/2.615088d2.chunk.js.map": "/challenge20_react/static/js/2.615088d2.chunk.js.map",
+    "index.html": "/challenge20_react/index.html",
+    "precache-manifest.95f512504bc46dd00261aff0aa06c0d3.js": "/challenge20_react/precache-manifest.95f512504bc46dd00261aff0aa06c0d3.js",
+    "service-worker.js": "/challenge20_react/service-worker.js",
+    "static/css/main.56dad6b5.chunk.css.map": "/challenge20_react/static/css/main.56dad6b5.chunk.css.map",
+    "static/js/2.615088d2.chunk.js.LICENSE.txt": "/challenge20_react/static/js/2.615088d2.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/challenge20_react/static/media/background.10c56cfe.png",
+    "static/media/jbResume.pdf": "/challenge20_react/static/media/jbResume.10b6299f.pdf",
+    "static/media/jm_korea.jpg": "/challenge20_react/static/media/jm_korea.625fd02e.jpg",
+    "static/media/portrait.png": "/challenge20_react/static/media/portrait.35966dff.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dca005c8.js",
+    "static/js/runtime-main.a133e703.js",
     "static/js/2.615088d2.chunk.js",
     "static/css/main.56dad6b5.chunk.css",
-    "static/js/main.29218867.chunk.js"
+    "static/js/main.df811f4e.chunk.js"
   ]
 }
