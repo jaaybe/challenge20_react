@@ -50,7 +50,7 @@ function App() {
   return (
 
     <Jumbotron style={{ backgroundImage: `url(${bgimage})`, backgroundSize: 'cover', width: '100vw', height: '100vh' }}>
-      <Container className="App">
+      <Container className="App" style={{alignContent: "center"}}>
         <Header
           navItems={navItems}
           setCurrentNavItem={setCurrentNavItem}
@@ -63,7 +63,7 @@ function App() {
           </Col>
         </Row>
 
-        <Row className="align-items-center footer">
+        <Row className="footer">
           <Footer></Footer>
         </Row>
 

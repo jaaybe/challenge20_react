@@ -9,7 +9,6 @@
 
 * {
   font-family: 'Futura PT', arial, sans-serif;
-  color: var(--color1);
 }
 
 a {
@@ -22,8 +21,10 @@ i {
 }
 
 .footer {
-  position:absolute;
-  left:0;
-  bottom:0;
-  right:0;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.card {
+  margin: 30pt;
 }

@@ -14,7 +14,7 @@ function Navigation(props) {
     }
   }, [currentNavItem]);
   return (
-    <Nav>
+    <Nav style={{justifyContent: 'space-between'}}>
         {navItems.map((navItem) => (
           <Nav.Item
             className={`mx-2 ${

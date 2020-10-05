@@ -9,7 +9,7 @@ import JbResume from '../../assets/pdf/jbResume.pdf';
 
 function Resume() {
     return (
-                <Media style={{display: 'block'}}>
+                <Media style={{display: 'block', marginTop: '30pt'}}>
                     <Media.Body>
                         <h5>Front-end Proficiencies</h5>
                         <p>
@@ -21,7 +21,7 @@ function Resume() {
 </ListGroup>
     </p>
                     </Media.Body>
-                    <Media.Body>
+                    <Media.Body style={{marginTop: '30pt'}}>
                         <h5>Back-end Proficiencies</h5>
                         <p>
                         <ListGroup variant="flush">

@@ -39,7 +39,7 @@ function ContactForm() {
   }
   return (
     <Container className="w-100">
-      <Row className="flex-row contact-page">
+      <Row className="flex-row contact-page" style={{justifyContent:"center", margin:'30px'}}>
         <Col sm={8} className="contact-form">
           <Row className="w-100">
             <Form className="w-100" onSubmit={handleSubmit}>
@@ -88,30 +88,3 @@ function ContactForm() {
   );
 }
 export default ContactForm;
-
-
-
-
-// {/* <Form>
-// <Form.Group controlId="form.Name">
-//   <Form.Label>Name</Form.Label>
-//   <Form.Control type="name" />
-// </Form.Group>
-
-// <Form.Group controlId="form.Email">
-//   <Form.Label>Email</Form.Label>
-//   <Form.Control type="email" />
-//   <Form.Text className="text-muted">
-//     * we'll never share your email with anyone else.
-// </Form.Text>
-// </Form.Group>
-
-// <Form.Group controlId="form.Text">
-//   <Form.Label>Message</Form.Label>
-//   <Form.Control as="textarea" placeholder="Enter your message here" rows='5' />
-// </Form.Group>
-
-// <Button type="submit">
-//   Submit
-// </Button>
-// </Form> */}
