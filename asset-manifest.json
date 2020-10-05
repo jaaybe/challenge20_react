@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/challenge20_react/static/css/main.56dad6b5.chunk.css",
-    "main.js": "/challenge20_react/static/js/main.f0521e43.chunk.js",
-    "main.js.map": "/challenge20_react/static/js/main.f0521e43.chunk.js.map",
+    "main.css": "/challenge20_react/static/css/main.fed08492.chunk.css",
+    "main.js": "/challenge20_react/static/js/main.5b762d85.chunk.js",
+    "main.js.map": "/challenge20_react/static/js/main.5b762d85.chunk.js.map",
     "runtime-main.js": "/challenge20_react/static/js/runtime-main.a133e703.js",
     "runtime-main.js.map": "/challenge20_react/static/js/runtime-main.a133e703.js.map",
-    "static/js/2.4f851a0d.chunk.js": "/challenge20_react/static/js/2.4f851a0d.chunk.js",
-    "static/js/2.4f851a0d.chunk.js.map": "/challenge20_react/static/js/2.4f851a0d.chunk.js.map",
+    "static/js/2.27df351f.chunk.js": "/challenge20_react/static/js/2.27df351f.chunk.js",
+    "static/js/2.27df351f.chunk.js.map": "/challenge20_react/static/js/2.27df351f.chunk.js.map",
     "index.html": "/challenge20_react/index.html",
-    "precache-manifest.1dd55e6fa351a4e77bfe848b8ab957bc.js": "/challenge20_react/precache-manifest.1dd55e6fa351a4e77bfe848b8ab957bc.js",
+    "precache-manifest.544b8429b0e4ba00d64dceff1b4e040e.js": "/challenge20_react/precache-manifest.544b8429b0e4ba00d64dceff1b4e040e.js",
     "service-worker.js": "/challenge20_react/service-worker.js",
-    "static/css/main.56dad6b5.chunk.css.map": "/challenge20_react/static/css/main.56dad6b5.chunk.css.map",
-    "static/js/2.4f851a0d.chunk.js.LICENSE.txt": "/challenge20_react/static/js/2.4f851a0d.chunk.js.LICENSE.txt",
+    "static/css/main.fed08492.chunk.css.map": "/challenge20_react/static/css/main.fed08492.chunk.css.map",
+    "static/js/2.27df351f.chunk.js.LICENSE.txt": "/challenge20_react/static/js/2.27df351f.chunk.js.LICENSE.txt",
     "static/media/background.png": "/challenge20_react/static/media/background.10c56cfe.png",
     "static/media/jbResume.pdf": "/challenge20_react/static/media/jbResume.10b6299f.pdf",
-    "static/media/jm_korea.jpg": "/challenge20_react/static/media/jm_korea.625fd02e.jpg",
-    "static/media/portrait.png": "/challenge20_react/static/media/portrait.35966dff.png"
+    "static/media/portrait.png": "/challenge20_react/static/media/portrait.35966dff.png",
+    "static/media/project1.jpg": "/challenge20_react/static/media/project1.3adfa0c7.jpg",
+    "static/media/project2.png": "/challenge20_react/static/media/project2.cbce5a9a.png",
+    "static/media/project3.png": "/challenge20_react/static/media/project3.9c651e7e.png",
+    "static/media/project4.png": "/challenge20_react/static/media/project4.2063ac08.png",
+    "static/media/project5.png": "/challenge20_react/static/media/project5.28a39ed8.png",
+    "static/media/project6.png": "/challenge20_react/static/media/project6.683b8099.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a133e703.js",
-    "static/js/2.4f851a0d.chunk.js",
-    "static/css/main.56dad6b5.chunk.css",
-    "static/js/main.f0521e43.chunk.js"
+    "static/js/2.27df351f.chunk.js",
+    "static/css/main.fed08492.chunk.css",
+    "static/js/main.5b762d85.chunk.js"
   ]
 }
